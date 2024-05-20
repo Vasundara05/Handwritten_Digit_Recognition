@@ -18,8 +18,8 @@ The project includes a Jupyter notebook with the main code, a saved model file, 
 - NumPy
 - Matplotlib
 - OpenCV
-You can install the required packages using the following command:
--pip install tensorflow numpy matplotlib opencv-python
+  You can install the required packages using the following command:
+  -pip install tensorflow numpy matplotlib opencv-python
 
 ## Instructions
 1. Clone the Repository:
